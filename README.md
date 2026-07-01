@@ -186,10 +186,6 @@ Open `HR_Analytics_Dashboard.pbix` in Power BI Desktop — or view the [Live Das
 **Harshil Kachhiya**
 B.Tech Information Technology | Ganpat University, Gujarat
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/harshil-kachhiya)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/harshil-kachhiya)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:work.harshilkachhiya@gmail.com)
-
 ---
 
 ## 📄 License
