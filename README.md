@@ -4,16 +4,6 @@
 
 ---
 
-## 🔗 Quick Links
-
-| Resource | Link |
-|----------|------|
-| 📄 Full PDF Report | [View Report](YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| 📊 Live Power BI Dashboard | [Open Dashboard](YOUR_POWERBI_LINK_HERE) |
-| 📁 Dataset Source | [IBM HR Analytics – Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) |
-
----
-
 ## 🎯 Problem Statement
 
 Employee attrition is one of the most expensive HR challenges — replacing a single employee can cost **50–200% of their annual salary**. This project answers a critical business question:
